@@ -1,11 +1,9 @@
 {
-    "token": "",
-    "owners": [],
-    "youtubeApiKey": "",
-    "imdbKey": "",
-    "reportsChannelId": "",
-    "openWeatherMapKey": "",
-    "feedBackChannelId": "",
-    "mongodbUri": "",
-    "giphyApiKey": ""
+    "token": "Nzc0NDg5MTI2MjQ2MTU0MjYx.X6YhNQ.74Ah-pXNFEyzueZBPchxJIcVzl0",
+    "owners": [706052939092852816],
+    "youtubeApiKey": "AIzaSyAYseMq85yURLJ-lLX_qT8_jUzTBpmnVe8",
+    "imdbKey": "5e36f0db",
+    "reportsChannelId": "778574602351411233",
+    "mongodbUri": "mongodb+srv://kartikey1:kartikey1@cluster0.hwdfo.mongodb.net",
+    
 }
